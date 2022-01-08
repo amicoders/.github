@@ -6,4 +6,4 @@ Por razones de privacidad el grupo Telegram no es público, por lo que para pode
 
 ## Repositorios
 
-En estos repositorios git encontrarás información útil para [empezar](https://github.com/amicoders/empezando) en el mundo del desarrollo Amiga, así como [recursos](https://github.com/amicoders/recursos) y un lugar donde hacer las [preguntas](https://github.com/amicoders/preguntas) que necesites para avanzar.
+En estos repositorios git encontrarás información útil para [empezar](https://github.com/amicoders/empezando) en el mundo del desarrollo Amiga, así como [recursos](https://github.com/amicoders/recursos) y un lugar donde hacer las [preguntas](https://github.com/amicoders/preguntas/discussions) que necesites para avanzar.
